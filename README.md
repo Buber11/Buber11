@@ -13,11 +13,15 @@
 - **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/jakub-balcerzak-136b06310/)
 
 ## 🧑‍💻 My Projects
-- [Trash-ads](https://github.com/Buber11/Trash-ads) - Copy OLX, page where client can reserve used goods and give diffrent goods over. [ Java, Spring boot, Postgresql ]
-- [QuizCraft](https://github.com/Buber11/QuizCraft) - Web page where users can create flashcards or quiz or diffrent exercises from text accompany with AI from Ollama [ Java, Spring boot, Postgresql, Ollama ]
-- [SkillSwap](https://github.com/Buber11/SkillSwap) - Web page where users can write with native speaker who speaks language you want to learn for free! [ Java, Spring boot, Postgresql]
-- [Advanced-Search-Language](https://github.com/Buber11/Advanced-Search-Language) - Language create with antlr4 for search data in webpage in browser instead of clicking in chechbox in filter menu. Project base on twitter language [ Java, Antlr4 ]
-- [Bank-Api](https://github.com/Buber11/Bank-API) - Web page for bank system with TOT code for 2 stage verification and detached encode server, softwear HMS implementation [ Java, Spring boot, Valut HashiCorp, Postgresql, google authenticator ]
+Trash-ads – A copy of OLX, a platform where clients can reserve used goods and exchange different items. [Java, Spring Boot, PostgreSQL]
+
+QuizCraft – A web page where users can create flashcards, quizzes, or various exercises from text, enhanced by AI from Ollama. [Java, Spring Boot, PostgreSQL, Ollama]
+
+SkillSwap – A web platform where users can chat with native speakers of the language they want to learn—for free! [Java, Spring Boot, PostgreSQL]
+
+Advanced-Search-Language – A language created with ANTLR4 for searching data on web pages in a browser, eliminating the need to manually click checkboxes in filter menus. Inspired by Twitter’s search language. [Java, ANTLR4]
+
+Bank-API – A banking system web application featuring TOTP-based two-factor authentication, a detached encryption server, and HMS software implementation. [Java, Spring Boot, HashiCorp Vault, PostgreSQL, Google Authenticator]
 
 ## 💬 Let's connect!
 Feel free to reach out if you'd like to collaborate on a project or just chat about tech.
