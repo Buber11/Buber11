@@ -9,9 +9,6 @@
 ## 🌱 I'm currently learning
 - MongoDB
 
-## 🌟 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
 ## 📫 How to reach me
 - **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/jakub-balcerzak-136b06310/)
 
