@@ -13,7 +13,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/jakub-balcerzak-136b06310/)
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/jakub-balcerzak-136b06310/)
 
 ## 🧑‍💻 My Projects
 - [Project 1](link-to-project) - A brief description of the project.
