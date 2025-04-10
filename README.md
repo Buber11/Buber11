@@ -16,9 +16,9 @@
 [Trash-ads](https://github.com/Buber11/Trash-ads) – A clone of OLX, a platform where users can reserve used goods and exchange different items. [Java, Spring Boot, PostgreSQL]  
 
 [QuizCraft] – A web page where users can create flashcards, quizzes, or various exercises from text, accompanied by AI from Ollama. [Java, Spring Boot, PostgreSQL, Ollama]
-[main-server-backend](https://github.com/Buber11/QuizCraft-main-backend)
-[sub-server-backend](https://github.com/Buber11/QuizCraft-subserver-backend)
-[frontend](https://github.com/Buber11/QuizCraft-Frontend) [blank currently]
+- **[main-server-backend](https://github.com/Buber11/QuizCraft-main-backend)**  
+- **[sub-server-backend](https://github.com/Buber11/QuizCraft-subserver-backend)**  
+- **[frontend](https://github.com/Buber11/QuizCraft-Frontend)** *(w budowie)*  
 
 [SkillSwap](https://github.com/Buber11/SkillSwap) – A web platform where users can chat with native speakers of the language they want to learn—for free! [Java, Spring Boot, PostgreSQL]  
 
