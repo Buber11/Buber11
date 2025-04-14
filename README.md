@@ -15,7 +15,9 @@
 ## 🧑‍💻 My Projects
 [Trash-ads](https://github.com/Buber11/Trash-ads) – A clone of OLX, a platform where users can reserve used goods and exchange different items. [Java, Spring Boot, PostgreSQL]  
 
-[QuizCraft] – A web page where users can create flashcards, quizzes, or various exercises from text, accompanied by AI from Ollama. [Java, Spring Boot, PostgreSQL, Ollama]
+[QuizCraft] –The backend system is designed as a Retrieval-Augmented Generation (RAG) architecture and consists of two servers communicating asynchronously via Apache Kafka. One server, written in Python, handles the transformation of text into vector representations and stores them in the Qdrant vector database. These vectors are later retrieved to improve responses to user prompts related to generating quizzes, flashcards, and similar learning content.
+
+The second server, built in Java using Spring Boot, manages the core application logic: task management (TaskManager), deck handling for study purposes, user authentication with JWT, and secure cross-origin communication (CORS) with the frontend. The system architecture follows the DTO pattern and leverages HATEOAS for building RESTful APIs. Maven is used for dependency management, Kafka enables asynchronous task processing, and Spring Security ensures robust authentication and authorization mechanisms.
 - **[main-server-backend](https://github.com/Buber11/QuizCraft-main-backend)**  
 - **[sub-server-backend](https://github.com/Buber11/QuizCraft-subserver-backend)**  
 - **[frontend](https://github.com/Buber11/QuizCraft-Frontend)** *(w budowie)*  
