@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Jakub!
 
 ## 🚀 Technologies I love
-- **Languages**: Java, JavaScript, SQL
-- **Database**: PostgreSQL
-- **Frameworks**: Spring boot
+- **Languages**: Java, JavaScript, SQL, Python, TypeScript
+- **Database**: PostgreSQL, MongoDB
+- **Frameworks**: Spring boot, Angular
 - **Tools**: Git, Intelij
 
 ## 🌱 I'm currently learning
