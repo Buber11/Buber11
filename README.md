@@ -20,7 +20,7 @@
 The second server, built in Java using Spring Boot, manages the core application logic: task management (TaskManager), deck handling for study purposes, user authentication with JWT, and secure cross-origin communication (CORS) with the frontend. The system architecture follows the DTO pattern and leverages HATEOAS for building RESTful APIs. Maven is used for dependency management, Kafka enables asynchronous task processing, and Spring Security ensures robust authentication and authorization mechanisms.
 - **[main-server-backend](https://github.com/Buber11/QuizCraft-main-backend)**  
 - **[sub-server-backend](https://github.com/Buber11/QuizCraft-subserver-backend)**  
-- **[frontend](https://github.com/Buber11/QuizCraft-Frontend)** *(w budowie)*  
+- **[frontend](https://github.com/Buber11/frontend-quizCraft)** *(w budowie)*  
 
 [SkillSwap](https://github.com/Buber11/SkillSwap) – A web platform where users can chat with native speakers of the language they want to learn—for free! [Java, Spring Boot, PostgreSQL]  
 
