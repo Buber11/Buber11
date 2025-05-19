@@ -7,7 +7,7 @@
 - **Tools**: Git, Intelij
 
 ## 🌱 I'm currently learning
-- MongoDB
+- Docker
 
 ## 📫 How to reach me
 - **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/jakub-balcerzak-136b06310/)
