@@ -13,7 +13,7 @@
 - **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/jakub-balcerzak-136b06310/)
 
 ## 🧑‍💻 My Projects
-[Trash-ads](https://github.com/Buber11/Trash-ads) – A clone of OLX, a platform where users can reserve used goods and exchange different items. [Java, Spring Boot, PostgreSQL]  
+[Trash-ads](https://github.com/Buber11/Trash-ads) – link to articule about it: https://www.linkedin.com/pulse/sql-query-optimization-practical-deep-dive-real-world-jakub-balcerzak-pu3cc/?trackingId=urNOh7wrMTG27NiBObrEWw%3D%3D [Java, Spring Boot, PostgreSQL]  
 
 [QuizCraft] –The backend system is designed as a Retrieval-Augmented Generation (RAG) architecture and consists of two servers communicating asynchronously via Apache Kafka. One server, written in Python, handles the transformation of text into vector representations and stores them in the Qdrant vector database. These vectors are later retrieved to improve responses to user prompts related to generating quizzes, flashcards, and similar learning content.
 
